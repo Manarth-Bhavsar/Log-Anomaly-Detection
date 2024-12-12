@@ -7,7 +7,7 @@ Prerequisites:
 
 Data Collection and Preprocessing:
 
-1> Sample Data: Sample pre-processed data from the logpai/logHub repository on GitHub.
+1> Sample Data: Sample pre-processed data from the logpai/loghub repository on GitHub.
 2> Real-time Data: Automatically export logs from Splunk and feed them into the model for real-time anomaly prediction.
 
 Data Processing:
