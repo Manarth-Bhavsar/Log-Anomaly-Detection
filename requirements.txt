@@ -1,0 +1,5 @@
+splunk-sdk
+scikit-learn
+pandas
+matplotlib
+numpy
